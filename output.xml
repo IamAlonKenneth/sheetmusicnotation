@@ -16,15 +16,15 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P418105974a2dc1851501804963d68c11">
+    <score-part id="Pd60cd4348e59115f3569e24c2660bcd4">
       <part-name>Voice 1</part-name>
     </score-part>
-    <score-part id="P0a690ed3e25cbb0f7c48ef8212ea8659">
+    <score-part id="Pc7caa3053187274573d9fa5e15841dae">
       <part-name>Voice 2</part-name>
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P418105974a2dc1851501804963d68c11">
+  <part id="Pd60cd4348e59115f3569e24c2660bcd4">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>
@@ -91,7 +91,7 @@
     </measure>
   </part>
   <!--=========================== Part 2 ===========================-->
-  <part id="P0a690ed3e25cbb0f7c48ef8212ea8659">
+  <part id="Pc7caa3053187274573d9fa5e15841dae">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>
@@ -110,9 +110,8 @@
           <step>A</step>
           <octave>4</octave>
         </pitch>
-        <duration>7560</duration>
+        <duration>5040</duration>
         <type>eighth</type>
-        <dot />
       </note>
       <note>
         <pitch>
